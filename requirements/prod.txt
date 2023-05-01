@@ -1,5 +1,5 @@
 # base stuff
-Flask==1.0.3
+Flask==2.3.2
 
 # IPFS ID format validator
 py-cid==0.2.1
